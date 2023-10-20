@@ -18,7 +18,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-![Snake animation](https://github.com/Guvslayer/Guvslayer/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Guvslayer/Guvslayer/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
